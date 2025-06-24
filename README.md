@@ -88,19 +88,19 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](Screenshots/Homepage.png)
+![Home Page](Dashboard%20SS/Homepage.png)
 
 ### 📊 Executive Summary  
-![Executive Summary](Screenshots/Executive%20Summary.png)
+![Executive Summary](Dashboard%20SS/Executive%20Summary.png)
 
 ### 🌍 Location Analysis  
-![Location View](Screenshots/Location%20View.png)
+![Location View](Dashboard%20SS/Location%20View.png)
 
 ---
 
 ## 📁 Dataset
 
-- 📄 [Superstore_Data.csv](Dataset/Superstore.csv)
+- 📄 [Superstore.csv](Superstore.csv)
 
 ---
 
@@ -117,7 +117,7 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 
 - 🔎 Power BI App: *Access restricted to org users only*  
 - 📄 PowerPoint Export: [Add your Google Drive or GitHub link here]  
-- 📁 Dataset: [Superstore_Data.csv](Dataset/Superstore.csv)  
+- 📁 Dataset: [Superstore.csv](Superstore.csv)  
 - 📺 Walkthrough Video: [Add if available]
 
 ---
