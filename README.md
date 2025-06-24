@@ -100,7 +100,7 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 
 ## 📁 Dataset
 
-- 📄 [Superstore_Data.csv](Dataset/Superstore_Data.csv)
+- 📄 [Superstore_Data.csv](Dataset/Superstore.csv)
 
 ---
 
@@ -117,7 +117,7 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 
 - 🔎 Power BI App: *Access restricted to org users only*  
 - 📄 PowerPoint Export: [Add your Google Drive or GitHub link here]  
-- 📁 Dataset: [Superstore_Data.csv](Dataset/Superstore_Data.csv)  
+- 📁 Dataset: [Superstore_Data.csv](Dataset/Superstore.csv)  
 - 📺 Walkthrough Video: [Add if available]
 
 ---
