@@ -88,13 +88,19 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home](Screenshots/homepage.png)
+![Home Page](Screenshots/Homepage.png)
 
-### 📈 Executive Summary  
-![Summary](Screenshots/executive_summary.png)
+### 📊 Executive Summary  
+![Executive Summary](Screenshots/Executive%20Summary.png)
 
 ### 🌍 Location Analysis  
-![Location](Screenshots/location_analysis.png)
+![Location View](Screenshots/Location%20View.png)
+
+---
+
+## 📁 Dataset
+
+- 📄 [Superstore_Data.csv](Dataset/Superstore_Data.csv)
 
 ---
 
@@ -110,9 +116,9 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ## 🔗 Links
 
 - 🔎 Power BI App: *Access restricted to org users only*  
-- 📄 PowerPoint Export: [Download link or Google Drive]  
-- 📺 Walkthrough Video: [Add if available]  
-- 📁 Dataset: [Optional if you're sharing public source]
+- 📄 PowerPoint Export: [Add your Google Drive or GitHub link here]  
+- 📁 Dataset: [Superstore_Data.csv](Dataset/Superstore_Data.csv)  
+- 📺 Walkthrough Video: [Add if available]
 
 ---
 
@@ -120,10 +126,9 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 
 **Piyush Kadam**  
 📧 piyushkadam4484@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/piyushkadam4)  
 💻 [GitHub](https://github.com/your-username)
 
 ---
 
-> 📌 _Note: Due to Power BI licensing restrictions, the interactive app link is only available for logged-in users within the same organization. For public view, see the screenshots and PowerPoint export above._
-
+> 📌 _Note: Due to Power BI licensing restrictions, the interactive app link is only available for logged-in users within the same organization. For public view, please see screenshots and PowerPoint export._
