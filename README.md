@@ -116,7 +116,7 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ## 🔗 Links
 
 - 🔎 Power BI App: *Access restricted to org users only*  
-- 📄 PowerPoint Export: [https://docs.google.com/presentation/d/1wUk0hlQo9fRObBFRDFo4DBMBoflKJsJ6/edit?usp=drive_link&ouid=105620746628215143734&rtpof=true&sd=true]  
+- 📄 [PowerPoint Export](https://docs.google.com/presentation/d/1wUk0hlQo9fRObBFRDFo4DBMBoflKJsJ6/edit?usp=drive_link&ouid=105620746628215143734&rtpof=true&sd=true)  
 - 📁 Dataset: [Superstore.csv](Superstore.csv)  
 - 📺 Walkthrough Video: [Add if available]
 
