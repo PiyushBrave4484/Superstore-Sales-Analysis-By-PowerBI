@@ -88,7 +88,7 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](Dashboard%20SS/Homepage.png)
+![Home Page](Dashboard SS/Dashboard.png)
 
 ### 📊 Executive Summary  
 ![Executive Summary](Dashboard%20SS/Executive%20Summary.png)
