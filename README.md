@@ -88,13 +88,13 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](Homepage.png)
+![Home Page](Superstore 2/Homepage.png)
 
 ### 📊 Executive Summary  
 ![Executive Summary](Dashboard.png)
 
 ### 🌍 15 Days Forcast  
-![15 Days Forcast](Forcast 15 days.png)
+![15 Days Forcast](Superstore 2/Forcast 15 days.png)
 
 ---
 
