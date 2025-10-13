@@ -91,7 +91,7 @@ To build a professional-level dashboard that helps analyze and visualize Superst
 ![Home Page]()
 
 ### 📊 Executive Summary  
-![Executive Summary](Superstore 2/Dashboard.png)
+![Executive Summary](Dashboard.png)
 
 ### 🌍 Location Analysis  
 ![Location View](Dashboard%20SS/Location%20View.png)
